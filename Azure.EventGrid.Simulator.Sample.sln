@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6770B9AC-6F67-4B50-BF9B-1060C2EE123F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Azure.EventGrid.Simulator.Sample", "src\Azure.EventGrid.Simulator.Sample\Azure.EventGrid.Simulator.Sample.csproj", "{E1A35AD8-2651-43CB-BB36-E59C5EF6765C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1A35AD8-2651-43CB-BB36-E59C5EF6765C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A35AD8-2651-43CB-BB36-E59C5EF6765C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A35AD8-2651-43CB-BB36-E59C5EF6765C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A35AD8-2651-43CB-BB36-E59C5EF6765C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E1A35AD8-2651-43CB-BB36-E59C5EF6765C} = {6770B9AC-6F67-4B50-BF9B-1060C2EE123F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F107B03-844A-43C4-908F-186D9E4CA608}
+	EndGlobalSection
+EndGlobal
