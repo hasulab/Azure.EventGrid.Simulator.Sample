@@ -3,7 +3,7 @@ AzureEventGridSimulator Sample proejct
 ## Getting Started 
 
 * Create a new ASP.NET Code empty Project
-* Add latest [Hasulab.Azure.EventGrid.Simulator nuget library](https://www.nuget.org/packages/Hasulab.Azure.EventGrid.Simulator/) version
+* Add latest [Hasulab.Azure.EventGrid.Simulator nuget library](https://www.nuget.org/packages/Hasulab.Azure.EventGrid.Simulator/) version reference to your proejct
 * Add following lines to Progarm.cs
 ```
 builder.Services.AddLogging();
